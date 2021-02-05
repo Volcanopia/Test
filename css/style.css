@@ -1,3 +1,8 @@
 body {
 	background-color: rebeccapurple;
 }
+
+body p:nth-child(2) {
+	color: #fff;
+	font-size: 2rem;
+}
